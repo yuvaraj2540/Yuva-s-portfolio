@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    
+    background-color: rgb(136, 138, 138);
+    padding: 10px;
+}
+h1,h2 {
+    text-align: center;
+}
+button{
+    font-size: large;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+p{
+    font-size: 5rem;
+    text-align: center;
+    background-color: rgb(244, 168, 82);
+}
+#end{
+    font-style: italic;
+}
+html{
+    background-color: rgb(207, 126, 180);
+}
